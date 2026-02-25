@@ -1,0 +1,5 @@
+#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total
+3,Venusaur,Grass,Poison,80,82,83,100,100,80,1,False,525
+45,Vileplume,Grass,Poison,75,80,85,110,90,50,1,False,490
+71,Victreebel,Grass,Poison,80,105,65,100,70,70,1,False,490
+591,Amoonguss,Grass,Poison,114,85,70,85,80,30,5,False,464
