@@ -1,0 +1,8 @@
+print("----**Calculator**----")
+n1=input("Enter first number:")
+n2=input("Enter second number:")
+print("The sum of two numbers is:", int(n1)+int(n2))
+print("The difference of two numbers is:", int(n1)-int(n2))
+print("The product of two numbers is:", int(n1)*int(n2))
+print("The remainder of two numbers is:",int(n1)%int(n2))
+print("The divsion of two numbers is:", int(n1)/int(n2))
