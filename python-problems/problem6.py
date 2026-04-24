@@ -1,0 +1,16 @@
+# Marks Management and Basic List/ Tuple Operations in Python
+marks=[]
+subj1=int(input("Enter marks of subject 1:"))
+marks.append(subj1)
+subj2=int(input("Enter marks of subject 2:"))
+marks.append(subj2)
+subj3=int(input("Enter marks of subject 3:"))
+marks.append(subj3)
+subj4=int(input("Enter marks of subject 4:"))
+marks.append(subj4)
+print(f"The marks are:{marks}")
+marks.sort()
+print(marks)
+print(f"The total marks are:{sum(marks)}")
+tuple=(0,1,2,3,0,4,0)
+print("The total number of zeros are:", tuple.count(0))
